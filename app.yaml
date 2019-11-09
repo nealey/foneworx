@@ -1,0 +1,6 @@
+runtime: go113
+handlers:
+  - url: /images
+    static_dir: static
+  - url: /share
+    static_dir: static
